@@ -1,4 +1,4 @@
-# Project Title
+# Student Performance Analysis
 
 ## App Deployment URL
 
@@ -11,4 +11,5 @@ git clone https://github.com/MSrikar7/Performance-Analysis
 cd Performance-Analysis
 pip install -r requirements.txt
 streamlit run CODE.py
+
 
